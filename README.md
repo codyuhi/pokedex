@@ -242,7 +242,7 @@ comments for line-by-line analysis of the code):
  protected String doInBackground(String... inputs) {
 // create user authentication for the Asana API
  String basicAuth = "Bearer ";
- basicAuth += "0/858ac4da00dcb3891449ca41645ee76b";
+ basicAuth += "enter auth key here";
 // if the pokemon hasn't been caught yet, we want to
 // create a new asana entry for the pokemon so it can be marked caught
  if(!caughtBool){
