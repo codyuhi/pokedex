@@ -1982,3 +1982,12 @@ project.
 • https://www.youtube.com/watch?v=xoTKpstv9f0
 • https://stackoverflow.com/questions/1128723/how-do-i-determine-whether-an-arraycontains-a-particular-value-in-java
 • https://www.youtube.com/watch?v=xoTKpstv9f0
+
+## TODO
+
+- Verify the app builds on my new local dev machine (macbook)
+- Rebuild the application using Kotlin
+- Rebuild the application to use a persistent database instead of Asana
+- Rebuild the application using a JavaScript Framework
+- Rebuild the application using Flutter
+- Rewrite the README so it's in md format instead of the poorly copy/pasted PDF content from my assignment turn-in
